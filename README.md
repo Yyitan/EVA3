@@ -137,9 +137,18 @@ Troika 41.7、本复现 37.3（论文 EVA 50.2）。
 }
 ```
 
-同时建议引用 EVA 原论文：*EVA: Decoupling Primitive with Experts*（ICLR 2026，
-Mixture-of-Experts Framework for Semantic Variant Alignment）；本仓库为其
-独立复现实现，方法权利归原论文作者。
+同时请引用 EVA 原论文（本仓库为其独立非官方复现实现，方法权利归原论文作者）：
+
+```bibtex
+@inproceedings{zhang2026eva,
+  title={Decoupling Primitive with Experts: Dynamic Feature Alignment for Compositional Zero-Shot Learning},
+  author={Zhang, Xiao and Jing, Haodong and Ma, Yongqiang and Zheng, Nanning},
+  booktitle={International Conference on Learning Representations (ICLR)},
+  year={2026}
+}
+```
+
+论文原文：[OpenReview](https://openreview.net/forum?id=hUtTGobe1r)。
 
 ## 6. License
 
